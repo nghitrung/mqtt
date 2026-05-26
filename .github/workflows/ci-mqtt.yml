@@ -3,7 +3,7 @@ name: CI MQTT Docker
 on:
   push:
     branches:
-      - main
+      - nhuy
   workflow_dispatch:
 
 env:
